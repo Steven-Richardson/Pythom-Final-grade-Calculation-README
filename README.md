@@ -7,7 +7,7 @@ Only a README for the calculation of the final grade for Python class. Displays 
 * There are five methods of assessment: participation, MindTap weekly assingments, Mindtap exams, SAIL projects, and the final project.
 
 # Psuedocode
-1. significant variables:
+1. Significant variables:
 
   PARTICIPATION - the percentage of the participation grade, initialized as 10%
 
